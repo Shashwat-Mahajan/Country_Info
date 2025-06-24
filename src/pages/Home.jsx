@@ -1,5 +1,6 @@
 import React from "react";
 import { FaLongArrowAltRight } from "react-icons/fa";
+import About from "../pages/About";
 
 const Home = () => {
   return (
@@ -23,6 +24,7 @@ const Home = () => {
           <img src="/images/resized_image_medium.png"></img>
         </div>
       </div>
+      <About />
     </main>
   );
 };
