@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "country": "India",
+      "capital": "New Delhi",
+      "population": "1.43 billion",
+      "interesting_fact": "India is the world's largest democracy and home to the world's second-largest population."
+    },
+    {
+      "id": 2,
+      "country": "Japan",
+      "capital": "Tokyo",
+      "population": "125 million",
+      "interesting_fact": "Japan has the world's oldest continuously operating company, founded in 578 AD."
+    },
+    {
+      "id": 3,
+      "country": "Canada",
+      "capital": "Ottawa",
+      "population": "39 million",
+      "interesting_fact": "Canada has more lakes than the rest of the world's lakes combined."
+    },
+    {
+      "id": 4,
+      "country": "Brazil",
+      "capital": "Brasília",
+      "population": "216 million",
+      "interesting_fact": "The Amazon rainforest, mostly in Brazil, produces about 20% of the world's oxygen."
+    },
+    {
+      "id": 5,
+      "country": "Australia",
+      "capital": "Canberra",
+      "population": "26 million",
+      "interesting_fact": "Australia is home to more kangaroos than humans."
+    },
+    {
+      "id": 6,
+      "country": "Russia",
+      "capital": "Moscow",
+      "population": "144 million",
+      "interesting_fact": "Russia is the largest country in the world by area, covering more than 11% of Earth's landmass."
+    },
+    {
+      "id": 7,
+      "country": "China",
+      "capital": "Beijing",
+      "population": "1.41 billion",
+      "interesting_fact": "China is home to the Great Wall, the longest wall in the world, stretching over 21,000 kilometers."
+    },
+    {
+      "id": 8,
+      "country": "Iceland",
+      "capital": "Reykjavík",
+      "population": "375,000",
+      "interesting_fact": "Iceland has no mosquitoes, thanks to its unique climate and geography."
+    },
+    {
+      "id": 9,
+      "country": "Egypt",
+      "capital": "Cairo",
+      "population": "110 million",
+      "interesting_fact": "Egypt is home to the oldest known pyramid, the Pyramid of Djoser, built in the 27th century BC."
+    },
+    {
+      "id": 10,
+      "country": "Switzerland",
+      "capital": "Bern",
+      "population": "8.8 million",
+      "interesting_fact": "Switzerland is one of the few countries with no official capital city declared in its constitution."
+    }
+  ]
+  

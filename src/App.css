@@ -173,7 +173,7 @@ nav ul {
 .hero-section .container {
   padding: 3.2rem;
   margin: 6rem auto;
-  gap: 6.4rem;
+  gap: 10rem;
 }
 
 .paragraph {
@@ -182,9 +182,11 @@ nav ul {
 
 .heading-xl {
   font-family: inherit;
-  font-size: clamp(5.2rem, 6vw, 4.241rem);
+  font-size: clamp(4rem, 6vw, 4.2rem);
   font-weight: 700;
-  line-height: 1.15;
+  line-height: 1.1;
+  letter-spacing: -1px;
+  margin-top: 10px;
   letter-spacing: -1px;
 }
 
@@ -218,7 +220,8 @@ nav ul {
 .gradient-cards {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 3.2rem;
+  gap: 2.5rem;
+
 }
 
 @media screen and (max-width: 991px) {
@@ -238,9 +241,9 @@ nav ul {
 }
 
 .card {
-  max-width: 55rem;
+  max-width: 40rem;
   border: 0;
-  width: 100%;
+  width: 80%;
   margin-inline: auto;
 }
 
